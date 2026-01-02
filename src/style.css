@@ -33,7 +33,7 @@ body {
 }
 
 .nav__item:not(:first-child) {
-  margin-left: 32px;
+  margin-left: 20px;
 }
 
 .nav__link {
